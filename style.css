@@ -1,0 +1,87 @@
+body{ 
+    background-color: lightgray;
+    
+    }
+header{
+    background-color: rgb(181, 239, 239);
+    text-align: center;
+    padding: 20px 20px;
+    width: 100%;
+    
+
+}
+
+h6{
+    text-align: center;
+    font-weight: bold;
+    background-color:blue;
+    padding: 20px 20px;
+    width: 50%;
+    font-size: xx-large;
+    color: white;
+}
+
+h2{
+text-align: center;
+font-weight: lighter;
+font-size:medium;
+}
+
+h4{
+    color: blue;
+}
+button{
+background-color:blue;
+width: 50%;
+padding: 1%;
+font-size: medium;
+font-weight: bold;
+color: white;
+}
+
+main{
+
+    text-align: center;
+}
+.p2{
+    text-align:left ;
+}
+input{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.card{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center ;
+    
+}
+.example-square{
+    border: 2px solid red;
+    min-height: 125px;
+    min-width: 125px;
+
+}
+
+
+
+span.title{
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+
+}
+
+
+
+.subtittle{
+    font-size:larger;
+    color: burlywood;
+    font-style:initial;
+}
+
+
+
