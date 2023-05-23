@@ -180,12 +180,6 @@ span{
     margin-left: 35%;
 }
 
-.keling{
-    text-align: center;
-    font: bold;
-    font-size: x-large;
-    color: white;
-}
 
 .pers{
     text-align: center;
@@ -198,4 +192,28 @@ span{
     display: flex;
     flex-direction: column;
     margin-right: 80%;
+}
+
+.hitung-keliling{
+    padding: 12px 24px;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    border: 0;
+    border-radius: 4px;
+    margin-top: 1%;
+    background-color: #19A7CE;
+}
+
+.reset-keliling{
+    background-color: orangered;
+    margin-left: 80%;
+    padding: 12px 24px;
+    display: flex;
+    font-weight: bold;
+    font-size: larger;
+    color: white;
+    border: 0;
+    border-radius: 4px;
 }
